@@ -3,3 +3,11 @@
 .pytest_cache/
 __pycache__/data-v1.tar.gz
 .ipynb_checkpoints/
+
+# challenge data (do not commit)
+challenge_data/*.gz
+challenge_data/DATA_CARD.md
+challenge_data/SHA256SUMS
+data-v1.tar.gz
+__pycache__/
+.ipynb_checkpoints/
