@@ -1,4 +1,5 @@
 *.egg-info/
 .venv/
 .pytest_cache/
-__pycache__/
+__pycache__/data-v1.tar.gz
+.ipynb_checkpoints/
