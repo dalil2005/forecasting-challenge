@@ -1,7 +1,7 @@
 *.egg-info/
 .venv/
 .pytest_cache/
-__pycache__/data-v1.tar.gz
+__pycache__/
 .ipynb_checkpoints/
 
 # challenge data (do not commit)
